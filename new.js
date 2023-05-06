@@ -3,4 +3,4 @@
 let news ;
 
 
-let newspad = new ;
+let newspad ;

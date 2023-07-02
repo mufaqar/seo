@@ -1,3 +1,3 @@
 
-let new = 50;
+let new = 500;
 let Adam= 'adam';
